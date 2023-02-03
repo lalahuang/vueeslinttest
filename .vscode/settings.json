@@ -1,0 +1,11 @@
+{
+  "volar.takeOverMode.extension": "Vue.volar",
+  "prettier.enable": false,
+  "editor.formatOnSave": false,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "[vue]": {
+    "editor.defaultFormatter": "Vue.volar"
+  }
+}
